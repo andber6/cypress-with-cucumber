@@ -1,0 +1,21 @@
+{
+  "name": "cy-bdd-tests",
+  "version": "1.0.0",
+  "description": "cypress with cucumber example",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Cypress",
+    "BDD",
+    "Cucumber"
+  ],
+  "author": "André Bergan",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^9.0.0",
+    "cypress-cucumber-preprocessor": "^4.3.0",
+    "prettier": "^2.4.1"
+  }
+}
